@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Net7.LineBot.Fab26/Properties/ServiceDependencies/FelarayBot - Web Deploy
+/Net7.LineBot.Fab26/appsettings.Development.json
